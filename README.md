@@ -1,16 +1,28 @@
-## Hi there 👋
+# Andressa Silva
 
-<!--
-**notdessa/notdessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Oie 👋, me chamo Andressa. 
 
-Here are some ideas to get you started:
+Trabalho com linguagens de programação desde 2013, mas nunca tive nenhum estudo a fundo para entender as bases. Estou estudando análise de dados com as tecnologias **SQL**, **R** e **Python**. Já tenho experiencia na área mas trabalhei sempre com excel avançaco! Pretendo me tornar uma especialista em análise de dados completa. **Estou aberta para contribuir em projetos**, adoro trabalhar em equipe, qualquer dúvida me chama no Linkedin ou Discord.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-regina-tito-da-luz-anezio-da-silva-44669513b/) 
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MhyRQK3S)
+
+## Tecnologias
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Roadmap
+[![roadmap.sh](https://roadmap.sh/card/tall/6802c4f76057cdb1a280ed4e?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
+
+## GitHub Stats
+![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=notdessa&theme=onedark&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=notdessa&theme=onedark)](https://git.io/streak-stats)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=notdessa&repo=dio-lab-open-source&theme=onedark)](https://github.com/notdessa/dio-lab-open-source)
