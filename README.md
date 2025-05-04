@@ -64,13 +64,14 @@ Since 2013 I've been working with programming, according to the company's specif
 [![GitHub Streak](https://streak-stats.demolab.com?user=notdessa&theme=onedark)](https://git.io/streak-stats)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=notdessa&repo=dio-lab-open-source&theme=onedark)](https://github.com/notdessa/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=notdessa&repo=bellabeat_casestudy_andressa&theme=onedark)](https://github.com/notdessa/bellabeat_casestudy_andressa)
 
 </div>
 
 <h3 align="center"> 🚌 Roadmap</h2>
 <div align="center">
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6802c4f76057cdb1a280ed4e?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6802c4f76057cdb1a280ed4e?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
 </div>
 
 ###
